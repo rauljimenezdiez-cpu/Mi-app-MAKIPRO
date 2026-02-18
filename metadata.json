@@ -1,0 +1,5 @@
+{
+  "name": "MAKIPRO",
+  "description": "A smart shift and earnings tracker. Manage your work schedule, automatically calculate earnings based on custom rates and variables, and use AI to quickly log shifts using natural language.",
+  "requestFramePermissions": []
+}
